@@ -1,0 +1,23 @@
+commit 926d0499e223a94d966acd6dc432b241fe1bca89
+Author: Jovan-Petrovic-556-2015 <556.2015@fink.rs>
+Date:   Mon Jun 4 17:06:53 2018 +0200
+
+    azuriran gitignore sa kokoignore
+
+commit 0956dac35c48fd6fd29a0bb90c146e4486e9ce3e
+Author: Jovan-Petrovic-556-2015 <556.2015@fink.rs>
+Date:   Mon Jun 4 16:58:48 2018 +0200
+
+    dodavanje gitignore fajla
+
+commit ba99281a34a4e62644ea29d4757b150a6bf553bc
+Author: Jovan-Petrovic-556-2015 <556.2015@fink.rs>
+Date:   Sat Jun 2 18:26:23 2018 +0200
+
+    added two files
+
+commit afd3b6f41c2180f0667ef063c125e40e97cf9a86
+Author: Jovan-Petrovic-556-2015 <556.2015@fink.rs>
+Date:   Sat Jun 2 18:21:49 2018 +0200
+
+    dodat fajl readme.txt
